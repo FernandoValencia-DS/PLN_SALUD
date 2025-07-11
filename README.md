@@ -30,8 +30,8 @@ Este taller se enfoca en historias clínicas de cáncer de mama. Se integran dos
 
 Desarrollado como parte de los talleres de Analítica en Salud en Salud por los estudiantes: 
 
-**Alejandro Orozco 2402036-7727**
-**Fernando Valencia 2401899-7727**
-**Carlos Botero 2400879-7727**
-**Brandon Rivas 2400430-7727**
+- **Alejandro Orozco 2402036-7727**
+- **Fernando Valencia 2401899-7727**
+- **Carlos Botero 2400879-7727**
+- **Brandon Rivas 2400430-7727**
 
