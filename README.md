@@ -1,4 +1,4 @@
-# ML_Salud
+# PLN_SALUD
 Este repositorio contiene la entrega final de la asignatura Analítica de Datos en Salud del grupo conformado por:
 ### Alejandro Orozco 2402036-7727
 ### Fernando Valencia 2401899-7727
