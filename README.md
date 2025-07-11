@@ -19,7 +19,7 @@ Este taller se enfoca en historias clínicas de cáncer de mama. Se integran dos
    - Extrae entidades clínicas específicas (tipo de cáncer, tratamiento, biomarcadores, etc.)
 
 2. **Modelo de negación/incertidumbre**: [`JuanSolarte99/bert-base-uncased-finetuned-ner-negation_detection_NUBES`](https://huggingface.co/JuanSolarte99/bert-base-uncased-finetuned-ner-negation_detection_NUBES)
-   - Clasifica cada entidad como **Afirmativa**, **Negada** o **Sospechosa** mediante una heurística basada en el alcance gramatical de las "cues" contextuales.
+   - Clasifica cada entidad como **Afirmativa**, **Negada** o **Sospechosa**.
 
 🔄 Finalmente, se construye una base de datos estructurada en formato CSV con las columnas:
 - `patient_id`, `sentence`, `NER`, `NER_label`, `Estado`
